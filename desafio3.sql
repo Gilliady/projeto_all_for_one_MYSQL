@@ -1,1 +1,1 @@
-SELECT COUNT(product_name) FROM products;
+SELECT id FROM products;
